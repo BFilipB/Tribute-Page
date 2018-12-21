@@ -1,0 +1,43 @@
+.hel{
+  font-size:250%;
+  color:blue;
+}
+
+.bro{
+  font-size:180%;
+  color:blue;
+}
+
+img {
+  
+    position: relative;
+    top: 50px;
+    left:520px;
+
+  
+    width: 400px;
+    height:250px;
+}
+
+body{
+  background-color:LightBlue;
+}
+p1{
+  position:relative;
+  top:150px;
+  color:black;
+  font-family:Serif;
+}
+
+h3{
+  position:relative;
+  top:200px;
+  
+}
+.bla{
+  position:relative;
+  top:220px;
+  color:black;
+  font-family:"Oranienbaum";
+}
+
